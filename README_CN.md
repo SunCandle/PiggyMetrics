@@ -1,6 +1,6 @@
 # Piggy Metrics
 
-**处理个人财务的简单方法**
+**一个供个人处理财务的解决方案**
 
 这是一款[概念性的应用程序](http://my-piggymetrics.rhcloud.com/)，基于 Spring Boot，Spring Cloud 和 Docker 简单演示了[微服务](http://martinfowler.com/microservices/)的 架构模式，顺便说一句，它还有一个非常漂亮整洁的用户界面。下面是它的界面演示：
 
